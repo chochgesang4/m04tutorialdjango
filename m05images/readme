@@ -1,0 +1,9 @@
+the images for m05 tutorial submission
+
+pythonanywhereworks.png=Deploy!
+error at djano urls.png = django urls
+error at django views.png = sjango views
+site works locally.png , errors on python anywhere.png= introduction to html
+added a bnew post from the query.png = django orm
+
+for some reason the python anywhere installed a different version of django and wouldnt let me install the local one. it works locally fine.
